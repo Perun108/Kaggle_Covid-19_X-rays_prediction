@@ -14,4 +14,4 @@ Some examples of the predictions:
 ![Negative example](./Images/Screenshot_20210718_204242.png)
 
 ### Typical example
-![Typical example](./Images/Screenshot_20210718_2043162.png)
+![Typical example](./Images/Screenshot_20210718_204316.png)

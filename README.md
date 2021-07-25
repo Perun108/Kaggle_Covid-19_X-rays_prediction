@@ -5,4 +5,4 @@ where the goal was to detect Covid-19 pneumonia from the X-ray scan.
 
 I used Keras models and Alnumentations library to augment the images to level off and increase the dataset.
 
-The model has been employed to heroku here: https://covid-19-xray-detection.herokuapp.com/
+The model has been employed to heroku at https://covid-19-xray-detection.herokuapp.com/

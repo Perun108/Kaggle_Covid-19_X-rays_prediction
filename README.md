@@ -9,4 +9,7 @@ The model has been employed to heroku at https://covid-19-xray-detection.herokua
 
 Some examples of the predictions:
 
+![plot](./Images/Screenshot_20210718_204242.png)
 
+
+Screenshot_20210718_2043162.png

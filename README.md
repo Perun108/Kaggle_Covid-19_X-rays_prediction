@@ -7,7 +7,7 @@ I used Keras models and Albumentations library to augment the images to level of
 
 The model has been deployed to heroku at https://covid-19-xray-detection.herokuapp.com/
 
-## Some examples of the predictions:
+## Some examples of the predictions
 
 ### Negative example
 

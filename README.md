@@ -9,6 +9,9 @@ The model has been employed to heroku at https://covid-19-xray-detection.herokua
 
 Some examples of the predictions:
 
-![Negative example](./Images/Screenshot_20210718_204242.png "Title")
+### Negative example
 
+![Negative example](./Images/Screenshot_20210718_204242.png)
+
+### Typical example
 ![Typical example](./Images/Screenshot_20210718_2043162.png)

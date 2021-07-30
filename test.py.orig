@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 print('See?')
+=======
 from flask import Flask
+>>>>>>> test

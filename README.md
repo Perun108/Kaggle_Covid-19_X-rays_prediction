@@ -1,6 +1,6 @@
-# Kaggle_Covid-19_X-rays_prediction
+# Kaggle Covid-19 X-rays prediction
 
-This is my notebook from the Kaggle competition https://www.kaggle.com/c/siim-covid19-detection 
+My notebook from the Kaggle competition https://www.kaggle.com/c/siim-covid19-detection 
 where the goal was to detect Covid-19 pneumonia from the X-ray scan.
 
 I used Keras models and Albumentations library to augment the images to level off and increase the dataset.
